@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: expensemanagerdiscovery
+    cloud:
+        config:
+            uri: http://localhost:9000
+
+    
